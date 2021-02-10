@@ -1,2 +1,2 @@
 # Piranha-OS
-Upcoming open source unix related operating system for desktop the introduction of this operating system is too help you with IoT Privacy & Data Privacy
+Upcoming open source unix like operating system for desktop the introduction of this operating system is to help you with IoT Privacy & Data Privacy
